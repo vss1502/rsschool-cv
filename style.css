@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 56px;
+  text-align: center;
+}
+
+header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h2 {
+  font-size: 1.1em;
+}
+
+.contact {
+  font-size: 36px;
+}
+
+section {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-left: 40px;
+  padding-top: 30px; 
+  font-size: 30px;
+}
+
+section p {
+padding-left: 40px;
+padding-top: 20px; 
+}
+
+section a {
+  display: inline-block;
+  margin-top: 20px; 
+  padding-left: 40px;   
+}
+
+section ul {
+  padding-left: 40px;
+  padding-top: 20px; 
+}
+
+section h2 {
+  padding-left: 20px;
+  padding-top: 10px; 
+}
+
+pre {
+ margin-left: -100px;
+}
